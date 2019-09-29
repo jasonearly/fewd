@@ -1,4 +1,4 @@
 # fewd
-Frontend + full stack lessons 
+Frontend + full stack lessons
 
-Working through online developement lessons in public as a refresh. 
+Working through online development lessons in public as a refresh.
